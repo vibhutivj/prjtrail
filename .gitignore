@@ -1,0 +1,24 @@
+
+#first level ignore-list
+Underscore/.settings
+Underscore/bin
+Underscore/components
+Underscore/services
+Underscore/.classpath
+Underscore/.project
+
+#for android environment
+#fourth level ignore-list
+Underscore/apps/Demo/android/css
+Underscore/apps/Demo/android/images
+Underscore/apps/Demo/android/js
+Underscore/apps/Demo/android/nativeResources
+
+#fifth level ignore-list
+Underscore/apps/Demo/android/native/.externalToolBuilders
+Underscore/apps/Demo/android/native/.idea
+Underscore/apps/Demo/android/native/.settings
+Underscore/apps/Demo/android/native/assets
+Underscore/apps/Demo/android/native/bin
+Underscore/apps/Demo/android/native/gen
+Underscore/apps/Demo/android/native/libs

@@ -1,24 +1,26 @@
+.metadata
+WorklightServerConfig
 
 #first level ignore-list
-Underscore/.settings
-Underscore/bin
-Underscore/components
-Underscore/services
-Underscore/.classpath
-Underscore/.project
+GitTrail/.settings
+GitTrail/bin
+GitTrail/components
+GitTrail/services
+GitTrail/.classpath
+GitTrail/.project
 
 #for android environment
 #fourth level ignore-list
-Underscore/apps/Demo/android/css
-Underscore/apps/Demo/android/images
-Underscore/apps/Demo/android/js
-Underscore/apps/Demo/android/nativeResources
+GitTrail/apps/Team/android/css
+GitTrail/apps/Team/android/images
+GitTrail/apps/Team/android/js
+GitTrail/apps/Team/android/nativeResources
 
 #fifth level ignore-list
-Underscore/apps/Demo/android/native/.externalToolBuilders
-Underscore/apps/Demo/android/native/.idea
-Underscore/apps/Demo/android/native/.settings
-Underscore/apps/Demo/android/native/assets
-Underscore/apps/Demo/android/native/bin
-Underscore/apps/Demo/android/native/gen
-Underscore/apps/Demo/android/native/libs
+GitTrail/apps/Team/android/native/.externalToolBuilders
+GitTrail/apps/Team/android/native/.idea
+GitTrail/apps/Team/android/native/.settings
+GitTrail/apps/Team/android/native/assets
+GitTrail/apps/Team/android/native/bin
+GitTrail/apps/Team/android/native/gen
+GitTrail/apps/Team/android/native/libs

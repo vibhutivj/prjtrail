@@ -1,3 +1,5 @@
+.metadata
+WorklightServerConfig
 
 #first level ignore-list
 Underscore/.settings

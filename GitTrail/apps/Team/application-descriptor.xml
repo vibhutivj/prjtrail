@@ -22,4 +22,5 @@
             <publicSigningKey>Replace this text with the actual public signing key of the certificate used to sign the APK, available by using the 'Extract public signing key' wizard.</publicSigningKey>
         </security>
     </android>
+
 </application>
